@@ -1,7 +1,7 @@
 {
-  "name": "angular2-typescript",
-  "version": "0.0.1",
-  "scripts" : {
+  "name": "angular2-quickstart",
+  "version": "1.0.0",
+  "scripts": {
     "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" ",
     "tsc": "tsc",
     "tsc:w": "tsc -w",
